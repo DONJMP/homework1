@@ -24,24 +24,24 @@ Robinhood uses over 20 different technologies for example:
 ![5](https://github.com/DONJMP/homework1/assets/141264743/4415c836-b028-41fb-8efd-d8d542a5ec61)
 
 is used to allow people to make their own robo-investors or to view stock information in real time.
-### AMASON AWS
+### [AMASON AWS](https://aws.amazon.com/free/?trk=fce796e8-4ceb-48e0-9767-89f7873fac3d&sc_channel=ps&ef_id=Cj0KCQjwuZGnBhD1ARIsACxbAVjhrtqqYutaHeJ14Xt8laAg8-y8baQQCGH3psEraqgrMlAVK9u1JyEaAv3JEALw_wcB:G:s&s_kwcid=AL!4422!3!432339156147!e!!g!!amazon%20aws!1644045032!68366401812&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
    
 ![6](https://github.com/DONJMP/homework1/assets/141264743/1f08f4c0-8739-4424-b3c7-92bcdce647cf)
 
 Is used to operate its online business, to deliver and update its mobile trading app, securely store customer information and trading data, and perform business analytics.
-### DOCKER
+### [DOCKER](https://www.docker.com/)  
 
 ![7](https://github.com/DONJMP/homework1/assets/141264743/36a19d2e-fb6d-4ab3-844f-e98260fb8671)
 
 
 The Docker Platform is the industry-leading container platform for continuous, high-velocity innovation, enabling organizations to seamlessly build and share any application
-### REACT
+### [REACT](https://react.dev/)
 
 ![8](https://github.com/DONJMP/homework1/assets/141264743/99165211-8a6c-436e-9ed0-130b1feeb3be)
 
 React is a tool in the Javascript UI Libraries used for building user interfaces (UIs) for single-page applications. React manages the view layer and is used for the 
           development of both web and mobile applications.
-### FAUST
+### [FAUST](https://faust.readthedocs.io/en/latest/#)
 
 ![9](https://github.com/DONJMP/homework1/assets/141264743/abb90743-9f1b-40be-9617-63f43addb0b1)
  
