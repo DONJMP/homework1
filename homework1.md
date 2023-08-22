@@ -80,14 +80,14 @@ While robinhood is great there are many companies that offer stock and crypto tr
 
 ![12](https://github.com/DONJMP/homework1/assets/141264743/379775d9-7d42-412b-9eb1-c339bab34e71)
 
-[coinbase](https://www.coinbase.com/) COINBASE which is the number 1 crypto trading company in the united states. But unlike Robinhood coinbase does not offer stock trading.
+[COINBASE](https://www.coinbase.com/) which is the number 1 crypto trading company in the united states. But unlike Robinhood coinbase does not offer stock trading.
 
 ![13](https://github.com/DONJMP/homework1/assets/141264743/b147e65e-a54b-4a4d-b854-5ff1fbffb57f)
 
-[PUBLIC](https://public.com/) PUBLIC One unique feature Public offers that Robinhood doesn't is its social trading platform,You can follow the portfolio of fellow community members.
+[PUBLIC](https://public.com/) One unique feature Public offers that Robinhood doesn't is its social trading platform,You can follow the portfolio of fellow community members.
 
 
-[SOFI](https://www.sofi.com/) SOFI offers wider variety of financial products available through SoFi's app, as well as the availability of more investment account types.
+[SOFI](https://www.sofi.com/) offers wider variety of financial products available through SoFi's app, as well as the availability of more investment account types.
 
 ## RECOMENDATIONS
 By my research Robinhood is definately recomended as it makes it easy for the new comsumer to step into the world of trading and finance.
