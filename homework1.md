@@ -108,8 +108,7 @@ easier and faster for some costumers to get the answers they need. Some provider
 
 ![15](https://github.com/DONJMP/homework1/assets/141264743/d40491f4-e7a7-42e4-b547-40cd4ad95035)
   
-  8x8.com Speech-based Virtual Agent which gives the customers new ways to interact with the business. while there are plenty other comapnies that offer this 
-        service 8x8 has great reviews for this type of need.
+[8X8.COM](https://www.8x8.com/) Speech-based Virtual Agent which gives the customers new ways to interact with the business. while there are plenty other comapnies that offer this service 8x8 has great reviews for this type of need.
 
 
 https://www.8x8.com
