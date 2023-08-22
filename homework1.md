@@ -51,7 +51,7 @@ React is a tool in the Javascript UI Libraries used for building user interfaces
 
 ## LANDSCAPE
 
-![5](https://github.com/DONJMP/homework1/assets/141264743/24d4435c-0ff1-4f72-9fdd-1703196b8bdc)
+![10](https://github.com/DONJMP/homework1/assets/141264743/3bb8bda7-5336-4d3d-8b60-88636ea8f458)
 
 Robinhood up to date has increased to over 11.8 million users with a net worth of $9.2 billion dollars at one point being included in the valuable fintech 50 list.
 #### PRO'S
