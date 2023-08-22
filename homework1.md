@@ -2,7 +2,7 @@
 ![1](https://github.com/DONJMP/homework1/assets/141264743/83160840-c989-4aac-89bb-1a26e16505b3)
 
 ## OVERVIEW AND ORIGIN
-![STEALING]![2](https://github.com/DONJMP/homework1/assets/141264743/04923fd5-d443-4cff-9562-28da47c53a21)
+![2](https://github.com/DONJMP/homework1/assets/141264743/04923fd5-d443-4cff-9562-28da47c53a21)
 
 Robinhood is a trading company that was founded in 2013 by Vladimir Tenev and Baiju Bhatt who were roommates and classmates. After graduating, they packed their bags for New York City and built two finance companies, selling their own trading software to hedge funds. They started Robinhood with the main goal in mind of allowing everyone to have acces to the the finacial system. 
 ![3](https://github.com/DONJMP/homework1/assets/141264743/78403b6f-e809-4338-9075-c8f0a39c1042)
