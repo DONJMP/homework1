@@ -20,7 +20,7 @@ How does Robinhood make money? Robinhood makes money in a number of ways, notabl
 
 #### TECHNOLOGY
 Robinhood uses over 20 different technologies for example:
-### PYTHON
+### [PYTHON](https://www.python.org/)
 ![5](https://github.com/DONJMP/homework1/assets/141264743/4415c836-b028-41fb-8efd-d8d542a5ec61)
 
 is used to allow people to make their own robo-investors or to view stock information in real time.
