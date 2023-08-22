@@ -76,7 +76,7 @@ While robinhood is great there are many companies that offer stock and crypto tr
 
 ![11](https://github.com/DONJMP/homework1/assets/141264743/419eda82-c272-446a-a33e-c0e2cb7b937a)
 
-MooMoo which offers free advanced analysis and trading tools, but might be better suited for those at the intermediate and advanced levels.
+[MOOMOO](https://www.moomoo.com/us) which offers free advanced analysis and trading tools, but might be better suited for those at the intermediate and advanced levels.
 
 ![12](https://github.com/DONJMP/homework1/assets/141264743/379775d9-7d42-412b-9eb1-c339bab34e71)
 
