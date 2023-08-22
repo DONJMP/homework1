@@ -18,7 +18,7 @@ Robinhood offers traditional and Roth IRA accounts. You’ll get a 1% match on e
 IRA accounts allow you to invest commission-free and take advantage of a custom-recommended portfolio.
 How does Robinhood make money? Robinhood makes money in a number of ways, notably through a system known as payment for order flow. That is, Robinhood routes its users orders through a market maker who actually makes the trades and compensates Robinhood for the business at a rate of a fraction of a cent per share.Robinhood also makes money by investing users' cash deposits at a higher interest rate.In addition, the company earns money from its premium Robinhood Gold services, fees related to its debit card, and other smaller revenue streams.
 
-#### TECHNOLOGY
+## TECHNOLOGY
 Robinhood uses over 20 different technologies for example:
 ### [PYTHON](https://www.python.org/)
 ![5](https://github.com/DONJMP/homework1/assets/141264743/4415c836-b028-41fb-8efd-d8d542a5ec61)
